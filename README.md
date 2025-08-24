@@ -1,3 +1,6 @@
+## Why?
+
+Key difference between steganography and cryptography, that we couldn't tell looking at a bmp file whether it is encoded with any secret message or not in case of steganography.
 
 ## Reference Material
 
@@ -7,7 +10,7 @@
 
 `https://www.ece.ualberta.ca/~elliott/ee552/studentAppNotes/2003_w/misc/bmp_file_format/bmp_file_format.htm` - File Structure Documentation
 
-2. Let us C by Yashwant Kanetkar
+2. Let us C by Yashavant Kanetkar
 
 ## Concepts Involved
 
