@@ -20,3 +20,7 @@
 
 ## How to use this repo
 
+1. clean and build source files using make
+`make clean all`
+2. 
+
